@@ -6,15 +6,24 @@ I'm a **Fullstack Developer** based in New Delhi, India 🇮🇳, passionate abo
 
 ## 💻 Tech Stack & Tools
 
-```ts
-const techStack = {
-  frontend: ['React.js', 'TailwindCSS', 'Chart.js', 'Zustand', 'React Query'],
-  backend: ['Node.js', 'Express.js', 'JWT Auth', 'REST APIs'],
-  database: ['MongoDB Atlas', 'MySQL'],
-  tools: ['Git', 'GitHub', 'Postman', 'Vercel', 'Railway', 'Cloudinary', 'Axios'],
-  concepts: ['Authentication', 'Authorization', 'Clean Architecture', 'Performance Optimization']
-};
-```
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0A7E5F?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
 
 ---
 
