@@ -44,6 +44,11 @@ Built with React, Express, MongoDB, and Arduino integration.
 
 ---
 
+### 🎉 [TaskTracker](https://github.com/Abhishek1334/TaskTracker)
+A full-stack Task Tracker application built with React, Express, MongoDB, and JWT Authentication. This app allows users to manage tasks and projects efficiently, featuring user registration, login, and secure access to task data.
+
+---
+
 ## 📜 Certifications
 - 🎓 **IBM Frontend Web Development Internship Program** *(Jun 2024 – Aug 2024)*
 - 🧮 **Newton School - SQL Fundamentals Certificate** *(Mar 2025)*
