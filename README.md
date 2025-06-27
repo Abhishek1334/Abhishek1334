@@ -1,78 +1,210 @@
-# 👋 Hi there, I'm Abhishek Rajoria!
+# 🚀 Hi there, I'm Abhishek Rajoria!
 
-I'm a **Fullstack Developer** based in New Delhi, India 🇮🇳, passionate about building scalable web applications and crafting seamless user experiences. From designing sleek frontend interfaces to implementing secure, real-time backend solutions, I love solving real-world problems through code.
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Next.js+%7C+React.js+Specialist;Building+Scalable+Web+Applications;OAuth+%26+Modern+Auth+Expert)
+  
+</div>
+
+<div align="center">
+  
+  📍 **Rohini, New Delhi, India** 🇮🇳 | 📱 **+91 9319054781**
+  
+  🌐 [**Portfolio**](https://Abhishek-Rajoria.vercel.app) | 💼 [**LinkedIn**](https://linkedin.com/in/AbhishekRajoria) | 📧 [**Email**](mailto:AbhishekRajoria24@gmail.com)
+  
+</div>
 
 ---
 
-## 💻 Tech Stack & Tools
+## 🎯 About Me
 
+> *Passionate Full Stack Developer specializing in scalable MERN applications with modern authentication (OAuth), real-time features, and clean architecture. Expert in Next.js, React.js, Node.js, and MongoDB. Strong focus on security, UX, and maintainable code.*
+
+```javascript
+const developer = {
+  name: "Abhishek Rajoria",
+  location: "New Delhi, India 🇮🇳",
+  role: "Full Stack Developer",
+  
+  expertise: ["Next.js", "React.js", "Node.js", "MongoDB", "OAuth"],
+  passions: ["Web Development", "IoT Integration", "Modern Authentication"],
+  
+  currentFocus: "Building Next.js applications with OAuth integrations",
+  goal: "Seeking Full Stack Development Internship"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend & UI** 🎨
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](#)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **State Management & Data** 📊
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### **Backend & Authentication** 🔐
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-CA4245?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+### **Database & ORM** 🗄️
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### **Cloud & Deployment** ☁️
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0A7E5F?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### **DevOps & Tools** 🛠️
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0A7E5F?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
-
+![Multer](https://img.shields.io/badge/Multer-FF6600?style=for-the-badge&logo=multer&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🎉 [Festify - Advanced IoT Event Management Ecosystem](https://github.com/Abhishek1334/Festify)
+> **🌟 [Live Demo](https://festify-tau.vercel.app/) | Production-ready event platform with cutting-edge IoT integration**
+
+**🚀 Enterprise-Level Platform:**
+- 🎫 **Smart QR Code Ticketing** with real-time generation and verification
+- 📡 **IoT Hardware Integration** - RFID check-ins via Arduino & NodeMCU
+- 🔐 **Multi-layer Authentication** - JWT, OAuth social login, role-based access
+- 🖼️ **Scalable Media Pipeline** - Multer + Cloudinary cloud storage
+- 📊 **Real-time Analytics Dashboard** with attendee insights
+- 🔍 **Advanced Search & Filtering** with category-based discovery
+- 📱 **Responsive Cross-platform UI** with modern design patterns
+
+**Tech Arsenal:** `React.js + Context API` `Node.js` `Express.js` `MongoDB` `JWT` `OAuth` `Cloudinary` `Arduino` `IoT Hardware` `HTML5 QR Scanner`
+
+**✨ Innovation Highlights:**
+- **Hardware-to-Web Integration**: Seamless Arduino RFID → API → Real-time UI updates
+- **Dual Verification System**: QR codes + RFID for maximum security and flexibility  
+- **Production Architecture**: Deployed across Vercel + Railway + MongoDB Atlas
+- **Organizer Tools**: Complete event lifecycle management with check-in analytics
 
 ---
 
-### 📊 [MarketPulse](https://github.com/Abhishek1334/MarketPulse)
-A real-time stock analytics platform with live and historical price data, metric toggling, and timeframe filters.  
-Built using React.js, Zustand, Chart.js, and Express.js.
+### 📊 [MarketPulse - Professional Stock Market Analytics Platform](https://github.com/Abhishek1334/MarketPulse)
+> **💹 [Live Demo](https://market-pulse-two.vercel.app/) | Enterprise-grade financial dashboard with real-time market data**
+
+**🏦 Wall Street-Level Analytics:**
+- 📈 **Real-time Stock Tracking** with live price feeds from Yahoo Finance & Twelve Data APIs
+- 📊 **Interactive Chart Engine** - Dynamic visualizations with Chart.js & custom metrics
+- ⏰ **Multi-timeframe Analysis** - Granular data from 1D to lifetime performance
+- 🎯 **Custom Metric Switching** - Toggle between Open, Close, High, Low, Volume
+- 🔄 **Intelligent Rate Limiting** - Optimized API calls with caching strategies
+- 📱 **Responsive Trading Interface** - Mobile-first design for on-the-go analysis
+- 🌗 **Light/Dark Mode** - Professional theming for extended usage
+- 📅 **Date Range Selection** - Precision analysis with custom timeframes
+
+**Tech Arsenal:** `React.js + Vite` `Zustand` `React Query` `Chart.js` `Node.js` `Express.js` `JWT Authentication` `TailwindCSS`
+
+**✨ Performance Innovations:**
+- **Smart State Management**: Zustand + React Query for optimal data synchronization
+- **API Optimization**: Rate-limited fetching with intelligent caching and error handling
+- **Financial Data Processing**: Real-time parsing of complex market data structures
+- **Scalable Architecture**: Modular components designed for enterprise-level expansion
 
 ---
 
-### 🎉 [Festify](https://github.com/Abhishek1334/Festify)
-An IoT-powered event management system featuring QR ticketing, RFID-based check-in, secure authentication, and cloud storage.  
-Built with React, Express, MongoDB, and Arduino integration.
+### 🏠 [StayFinder - Next.js Airbnb Clone](https://github.com/Abhishek1334/StayFinder)
+> **Modern property rental platform** | 🌍 [**Live Demo**](https://stayfinder-eta.vercel.app/)
+
+**🏡 Key Features:**
+- 🏠 Property Management System
+- 🔍 Advanced Search & Filters
+- 📅 Smart Booking Calendar
+- 👤 OAuth Social Authentication
+- 💳 Secure Payment Integration (Stripe)
+
+**Tech Stack:** `Next.js` `TypeScript` `NextAuth.js` `Redux Toolkit` `TailwindCSS` `Prisma` `OAuth`
+
+**✨ Highlights:**
+- Full TypeScript implementation
+- NextAuth.js OAuth integration
+- Production-ready deployment
+- Modern Airbnb-inspired design
 
 ---
 
-### 🎉 [TaskTracker](https://github.com/Abhishek1334/TaskTracker)
-A full-stack Task Tracker application built with React, Express, MongoDB, and JWT Authentication. This app allows users to manage tasks and projects efficiently, featuring user registration, login, and secure access to task data.
+## 🎓 Education & Experience
 
----
+### 📚 **Education**
+**🎓 Bachelor of Computer Applications (BCA)** - *2022-Present*  
+Vivekananda Institute of Professional Studies (VIPS), Delhi | **CGPA: 7.917**
 
-## 📜 Certifications
-- 🎓 **IBM Frontend Web Development Internship Program** *(Jun 2024 – Aug 2024)*
+### 🏆 **Experience & Certifications**
+- 💼 **IBM Frontend Web Development Internship** *(Jun-Aug 2024)*
 - 🧮 **Newton School - SQL Fundamentals Certificate** *(Mar 2025)*
 
 ---
 
-## 📚 Education
-**Bachelor of Computer Applications (BCA)**  
-Vivekananda Institute of Professional Studies (VIPS), Delhi  
-🗓️ 2022 – Present | 🎯 CGPA: 7.917
+## 🌱 Currently Working On
+
+```javascript
+const currentGoals = {
+  🎯 seeking: "Full Stack Development Internship",
+  🚀 building: "Next.js SaaS platform with OAuth",
+  📚 learning: ["Next.js 14 App Router", "Advanced OAuth patterns", "Docker"],
+  💡 nextProject: "Real-time collaborative web application"
+};
+```
 
 ---
 
-## 🌱 I’m currently looking for...
-An **internship opportunity** where I can apply my fullstack skills, collaborate with experienced teams, and contribute to meaningful projects.
+## 💡 What Makes Me Unique
+
+- 🤖 **IoT Integration**: Combining hardware with web applications
+- 🔐 **Modern Auth Expert**: OAuth, NextAuth.js, and security best practices  
+- ⚡ **Performance Focused**: Optimized applications with clean architecture
+- 🎨 **UI/UX Minded**: Creating intuitive, modern user experiences
+- 🚀 **Full Stack**: Comfortable with both frontend and backend development
 
 ---
 
-## 📫 Let’s Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/AbhishekRajoria)
-- 📧 Email: [AbhishekRajoria24@gmail.com](mailto:AbhishekRajoria24@gmail.com)
-- 💻 [GitHub](https://github.com/Abhishek1334)
+## 🤝 Let's Connect!
 
----
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhishekRajoria)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Abhishek-Rajoria.vercel.app)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AbhishekRajoria24@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek1334)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Abhishek1334&color=6366f1&style=for-the-badge&label=Profile+Views)
+  
+</div>
 
-_Thanks for visiting my profile! Feel free to check out my projects or reach out if you'd like to collaborate 🚀_
+<div align="center">
+  
+  ### 💬 *"Passionate about building modern web applications that solve real-world problems"*
+  
+  **Open to internship opportunities and exciting projects! Let's build something amazing together! 🚀**
+  
+</div>
