@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  📍 **Rohini, New Delhi, India** 🇮🇳 | 📱 **+91 9319054781**
+  📍 **New Delhi, India** 🇮🇳 | 📱 **+91 9319054781**
   
   🌐 [**Portfolio**](https://Abhishek-Rajoria.vercel.app) | 💼 [**LinkedIn**](https://linkedin.com/in/AbhishekRajoria) | 📧 [**Email**](mailto:AbhishekRajoria24@gmail.com)
   
