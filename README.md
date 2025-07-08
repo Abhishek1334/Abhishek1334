@@ -156,8 +156,8 @@ const developer = {
 ## 🎓 Education & Experience
 
 ### 📚 **Education**
-**🎓 Bachelor of Computer Applications (BCA)** - *2022-Present*  
-Vivekananda Institute of Professional Studies (VIPS), Delhi | **CGPA: 7.917**
+**🎓 Bachelor of Computer Applications (BCA)** - *2022-2025*  
+Vivekananda Institute of Professional Studies (VIPS), Delhi | **CGPA: 8.0**
 
 ### 🏆 **Experience & Certifications**
 - 💼 **IBM Frontend Web Development Internship** *(Jun-Aug 2024)*
