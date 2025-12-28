@@ -18,7 +18,7 @@
 
 ## 🎯 About Me
 
-> *Passionate Full Stack Developer specializing in scalable MERN applications with modern authentication (OAuth), real-time features, and clean architecture. Expert in Next.js, React.js, Node.js, and MongoDB. Strong focus on security, UX, and maintainable code.*
+> *Frontend-leaning Full Stack Developer focused on building scalable web apps, modern authentication, and data-driven dashboards.*
 
 ```javascript
 const developer = {
@@ -33,6 +33,24 @@ const developer = {
   goal: "Seeking Full Stack Development Internship"
 };
 ```
+## 💼 Work Experience
+
+### **Frontend Developer Intern — PRNK Infotech (Algobeat)**  
+📍 Delhi, India · 🗓️ Aug 2025 – Nov 2025
+
+Worked with **ownership beyond intern scope**, contributing as a key frontend engineer on multiple production systems.
+
+**Key Contributions:**
+- Led frontend delivery for client-facing dashboards under **tight deadlines**, from requirements to final demo and handover.
+- Acted as the **primary frontend point of contact**, handling demos, client feedback, revisions, and scope discussions.
+- Collaborated closely with **backend engineers and team leads** to align APIs, resolve edge cases, and unblock delivery.
+- Reviewed and refactored **large existing codebases**, improving UX, stability, and maintainability.
+- Guided other developers by **breaking down tasks, reviewing PRs, resolving merge conflicts**, and maintaining delivery velocity.
+- Built **data-heavy UI** (reports, charts, filters, exports, forms) with robust validation and error handling.
+- Took ownership of **testing, bug triage, and production readiness**, including fixes outside working hours when required.
+- Maintained detailed **daily logs and progress tracking** for transparency and smooth handovers.
+
+**Tech:** React · Next.js · TypeScript · Redux Toolkit · REST APIs · Tailwind CSS · Git · TanStack Query · Charting Libraries
 
 ---
 
@@ -80,19 +98,16 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-### 🎉 [Festify - Advanced IoT Event Management Ecosystem](https://github.com/Abhishek1334/Festify)
-> **🌟 [Live Demo](https://festify-tau.vercel.app/) | Production-ready event platform with cutting-edge IoT integration**
+### 🎉 Festify — IoT-Enabled Event Management Platform  
+🔗 [GitHub](https://github.com/Abhishek1334/Festify) · 🌐 [Live Demo](https://festify-tau.vercel.app)
 
-**🚀 Enterprise-Level Platform:**
-- 🎫 **Smart QR Code Ticketing** with real-time generation and verification
-- 📡 **IoT Hardware Integration** - RFID check-ins via Arduino & NodeMCU
-- 🔐 **Multi-layer Authentication** - JWT, OAuth social login, role-based access
-- 🖼️ **Scalable Media Pipeline** - Multer + Cloudinary cloud storage
-- 📊 **Real-time Analytics Dashboard** with attendee insights
-- 🔍 **Advanced Search & Filtering** with category-based discovery
-- 📱 **Responsive Cross-platform UI** with modern design patterns
+- QR-based ticketing with real-time verification
+- RFID check-ins via Arduino / NodeMCU
+- Role-based auth (JWT + OAuth)
+- Analytics dashboard with live insights
+- Cloud media pipeline using Multer + Cloudinary
 
-**Tech Arsenal:** `React.js + Context API` `Node.js` `Express.js` `MongoDB` `JWT` `OAuth` `Cloudinary` `Arduino` `IoT Hardware` `HTML5 QR Scanner`
+**Stack:** React · Node.js · MongoDB · JWT · OAuth · IoT · Cloudinary
 
 **✨ Innovation Highlights:**
 - **Hardware-to-Web Integration**: Seamless Arduino RFID → API → Real-time UI updates
@@ -102,20 +117,15 @@ const developer = {
 
 ---
 
-### 📊 [MarketPulse - Professional Stock Market Analytics Platform](https://github.com/Abhishek1334/MarketPulse)
-> **💹 [Live Demo](https://market-pulse-two.vercel.app/) | Enterprise-grade financial dashboard with real-time market data**
+### 📊 MarketPulse — Stock Market Analytics Dashboard  
+🔗 [GitHub](https://github.com/Abhishek1334/MarketPulse) · 🌐 [Live Demo](https://market-pulse-two.vercel.app)
 
-**🏦 Wall Street-Level Analytics:**
-- 📈 **Real-time Stock Tracking** with live price feeds from Yahoo Finance & Twelve Data APIs
-- 📊 **Interactive Chart Engine** - Dynamic visualizations with Chart.js & custom metrics
-- ⏰ **Multi-timeframe Analysis** - Granular data from 1D to lifetime performance
-- 🎯 **Custom Metric Switching** - Toggle between Open, Close, High, Low, Volume
-- 🔄 **Intelligent Rate Limiting** - Optimized API calls with caching strategies
-- 📱 **Responsive Trading Interface** - Mobile-first design for on-the-go analysis
-- 🌗 **Light/Dark Mode** - Professional theming for extended usage
-- 📅 **Date Range Selection** - Precision analysis with custom timeframes
+- Real-time stock data with multi-timeframe analysis
+- Interactive charts and metric switching
+- Optimized API usage with caching and rate limiting
+- Responsive, production-ready UI
 
-**Tech Arsenal:** `React.js + Vite` `Zustand` `React Query` `Chart.js` `Node.js` `Express.js` `JWT Authentication` `TailwindCSS`
+**Stack:** React · Zustand · TanStack Query · Chart.js · Node.js
 
 **✨ Performance Innovations:**
 - **Smart State Management**: Zustand + React Query for optimal data synchronization
@@ -125,35 +135,17 @@ const developer = {
 
 ---
 
-### 🏠 [StayFinder - Next.js Airbnb Clone](https://github.com/Abhishek1334/StayFinder)
-> **Modern property rental platform** | 🌍 [**Live Demo**](https://stayfinder-eta.vercel.app/)
-
-**🏡 Key Features:**
-- 🏠 Property Management System
-- 🔍 Advanced Search & Filters
-- 📅 Smart Booking Calendar
-- 👤 OAuth Social Authentication
-- 💳 Secure Payment Integration (Stripe)
-
-**Tech Stack:** `Next.js` `TypeScript` `NextAuth.js` `Redux Toolkit` `TailwindCSS` `Prisma` `OAuth`
-
-**✨ Highlights:**
-- Full TypeScript implementation
-- NextAuth.js OAuth integration
-- Production-ready deployment
-- Modern Airbnb-inspired design
-
----
-
 ## 🎓 Education & Experience
 
-### 📚 **Education**
-**🎓 Bachelor of Computer Applications (BCA)** - *2022-2025*  
-Vivekananda Institute of Professional Studies (VIPS), Delhi | **CGPA: 8.0**
+### **Education**
+**Bachelor of Computer Applications (BCA)** — 2022–2025  
+Vivekananda Institute of Professional Studies (VIPS), Delhi · **CGPA: 8.0**
 
-### 🏆 **Experience & Certifications**
-- 💼 **IBM Frontend Web Development Internship** *(Jun-Aug 2024)*
-- 🧮 **Newton School - SQL Fundamentals Certificate** *(Mar 2025)*
+
+### **Experience & Certifications**
+- IBM Frontend Web Development Internship  
+- Newton School — SQL Fundamentals
+
 
 ---
 
@@ -163,8 +155,7 @@ Vivekananda Institute of Professional Studies (VIPS), Delhi | **CGPA: 8.0**
 const currentGoals = {
   🎯 seeking: "Full Stack Development Internship",
   🚀 building: "Next.js SaaS platform with OAuth",
-  📚 learning: ["Next.js 14 App Router", "Advanced OAuth patterns", "Docker"],
-  💡 nextProject: "Real-time collaborative web application"
+  📚 learning: ["Strengthening JavaScript & core CS fundamentals","Advanced Next.js patterns and scalable frontend architecture"]
 };
 ```
 
@@ -180,23 +171,26 @@ const currentGoals = {
 
 ---
 
-## 🤝 Let's Connect!
+## 🔍 What I’m Looking For
+
+- Frontend / Full Stack Intern or Entry-Level Roles  
+- Product-based teams working on real systems  
+- High-ownership environments with learning & mentorship  
+- Open to remote / hybrid opportunities  
+
+---
+
+
+## 🤝 Let’s Connect
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhishekRajoria)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Abhishek-Rajoria.vercel.app)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AbhishekRajoria24@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek1334)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Abhishek1334&color=6366f1&style=for-the-badge&label=Profile+Views)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhishekRajoria)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Abhishek-Rajoria.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek1334)
+
 </div>
 
-<div align="center">
-  
-  ### 💬 *"Passionate about building modern web applications that solve real-world problems"*
-  
-  **Open to internship opportunities and exciting projects! Let's build something amazing together! 🚀**
-  
-</div>
+---
+
+> *Focused on building reliable, production-ready web applications that solve real problems.*
